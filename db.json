@@ -1,6 +1,119 @@
 {
- "shipments": [{
-"id":1,
-"name":"Bui Dang Minh"}
-]
+  "site": {
+    "siteId": "id0001"
+  },
+  "shipments": [
+    {
+      "id": 1,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 2,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 3,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 4,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 5,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 6,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 7,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 8,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 9,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 10,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 11,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 12,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 13,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 14,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 15,
+      "name": "プレカット",
+      "deliveryDate": "1便 1/29 8:00",
+      "deliveryObject": "土台 1階柱 1階野物",
+      "lastUpdatedDate": "1/10 8:00"
+    },
+    {
+      "id": 16,
+      "name": "電線・スイッチ・ドアホン・分電盤・24H",
+      "deliveryDate": "2便 1/30 8:00",
+      "deliveryObject": null,
+      "lastUpdatedDate": "1/10 8:00"
+    }
+  ]
 }
