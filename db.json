@@ -1,5 +1,6 @@
 {
- “shipments”: [
-{”id”:1, “name”: “Bui Dang Minh”}
+ "shipments": [{
+"id":1,
+"name":"Bui Dang Minh"}
 ]
 }
